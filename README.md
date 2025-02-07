@@ -56,14 +56,14 @@
         福利中心(每日签到 + 每日任务)
     Secrets:
         pg_enable(true)
-        pg_appid
-        pg_msdkEncodeParam
-        pg_openid
-        pg_sig
-        pg_timestamp
+        pg_appid  
+        pg_msdkEncodeParam  变化
+        pg_openid 
+        pg_sig  变化
+        pg_timestamp 变化
         pg_roleId
         pg_userId
-        pg_token
+        pg_token 变化
    
     Name: 王者营地
     Desc: 
